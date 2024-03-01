@@ -1,8 +1,8 @@
-<img width="100%" height="250px" src="https://t3.ftcdn.net/jpg/05/14/95/12/360_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg">
+<img width="100%" height="300px" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animation" style="vertical-align:middle; width: 35px;"> I'm Guilherme Souza</h1>
 <h3 align="center">Software Developer | Engineer</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 Guilherme is a Software Engineering student passionate about learning new technologies. With knowledge in C/C++, C# .NET, and front-end development, he has a strong willingness to grow and tackle challenges with determination.
 
