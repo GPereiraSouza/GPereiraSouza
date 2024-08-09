@@ -23,7 +23,7 @@ I am a Software Engineering student with a strong focus on backend development, 
 
 ### GitHub Activity
 
-![Guilherme's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GPereiraSouza)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPereiraSouza)](https://github.com/GPereiraSouza/github-readme-stats)
 
 ### Socials
 
