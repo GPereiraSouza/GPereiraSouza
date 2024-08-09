@@ -21,6 +21,10 @@ I am a Software Engineering student with a strong focus on backend development, 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
+### GitHub Activity
+
+![Guilherme's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GPereiraSouza)
+
 ### Socials
 
 <p align="left">
